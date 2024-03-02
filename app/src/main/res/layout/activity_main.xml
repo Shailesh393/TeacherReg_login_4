@@ -9,10 +9,9 @@
     android:padding="20dp"
     tools:context=".MainActivity">
 
-
     <ImageView
-        android:layout_width="50dp"
-        android:layout_height="50dp"
+        android:layout_width="44dp"
+        android:layout_height="56dp"
         android:src="@drawable/collegelogo"
         android:transitionName="logo_image" />
 
@@ -253,5 +252,4 @@
         android:text="Register"
         android:textColor="#fff"
         android:transitionName="button_tran" />
-
 </LinearLayout>
