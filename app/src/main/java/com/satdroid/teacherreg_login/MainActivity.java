@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
     AppCompatButton btnregister;
 
-   // String MCA_tv,Civil_tv;
   private  Spinner MCA,civil,cs,electrical,electronics,IT,mechanical;
   private  CheckBox MCAcb,civilcb,cscb,electricalcb,electronicscb,ITcb,mechanicalcb;
 
